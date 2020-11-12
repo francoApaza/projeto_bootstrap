@@ -1,0 +1,27 @@
+
+#formas_pagamento{
+    color:rgb(83, 75, 75);
+} 
+
+
+.mainProdutos {
+    display: flex;
+}
+
+.produtos {
+    height: 100%;
+    width: 80vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.box_produto {
+    text-align: center;
+    width: 22%;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content : flex-end;
+    align-items: center;
+    margin: 60px 10px;
+} 
